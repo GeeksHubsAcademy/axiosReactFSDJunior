@@ -1,0 +1,13 @@
+
+
+.personajeSerieRickMortyCard {
+    height: 10em;
+    width: 7em;
+
+    border-radius: 2em;
+    background-color: lightgray;
+
+    display: flex;
+    flex-direction: column;
+
+}
